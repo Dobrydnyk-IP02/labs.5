@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Лабораторна робота. №5", "Лабораторна робота. №5\Лабораторна робота. №5.pyproj", "{E232DC6F-C6E2-4D13-B2C6-4D8FD079E56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E232DC6F-C6E2-4D13-B2C6-4D8FD079E56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E232DC6F-C6E2-4D13-B2C6-4D8FD079E56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4C1E53-1385-4526-9C95-9BEEDFC2EA96}
+	EndGlobalSection
+EndGlobal
